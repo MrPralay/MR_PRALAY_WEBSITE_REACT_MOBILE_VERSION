@@ -4,6 +4,10 @@ node_modules/
 venv/
 env/
 .env
+.dev.vars
+.env.local
+.env.development
+.env.production
 
 # Mobile Build Tools (Huge Files)
 jdk/
